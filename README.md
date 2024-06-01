@@ -52,8 +52,7 @@ Navigate to the project directory: cd optimized-password-cracker
 Install dependencies: pip install -r requirements.txt
 
 # Running the Application:
-Start the Flask server: python app.py
-Access the web interface through http://127.0.0.1:5000
+Start the Flask server: password cracker.py
 Conclusion
 The "Optimized Password Cracker" provides an engaging and educational experience, showcasing the inner workings of password security and the techniques used to breach it. By understanding these mechanisms, users can better appreciate the importance of strong, secure password practices in safeguarding their digital identities.
 
